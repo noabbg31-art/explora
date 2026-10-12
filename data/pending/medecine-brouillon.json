@@ -1,0 +1,707 @@
+[
+ {
+  "slug": "cardiologie",
+  "resources": []
+ },
+ {
+  "slug": "neurologie",
+  "resources": []
+ },
+ {
+  "slug": "oncologie",
+  "resources": [
+   {
+    "title": "Futura Sciences – Oncologue",
+    "url": "https://www.futura-sciences.com/sante/definitions/medecine-oncologue-2790/",
+    "type": "site"
+   },
+   {
+    "title": "Association Cancerock – information et vulgarisation",
+    "url": "https://www.helloasso.com/associations/cancerock",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "pediatrie",
+  "resources": [
+   {
+    "title": "MPédia – conseils pédiatriques aux parents",
+    "url": "https://www.mpedia.fr",
+    "type": "site"
+   },
+   {
+    "title": "Pédiatre Online – blog de pédiatrie",
+    "url": "https://www.pediatre-online.fr",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "geriatrie",
+  "resources": []
+ },
+ {
+  "slug": "psychiatrie",
+  "resources": []
+ },
+ {
+  "slug": "dermatologie",
+  "resources": [
+   {
+    "title": "Dermato-Info – maladies de la peau de A à Z",
+    "url": "https://dermato-info.fr",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "endocrinologie-medecine",
+  "resources": []
+ },
+ {
+  "slug": "gastro-enterologie",
+  "resources": []
+ },
+ {
+  "slug": "pneumologie",
+  "resources": [
+   {
+    "title": "Vikidia – Pneumologie",
+    "url": "https://fr.vikidia.org/wiki/Pneumologie",
+    "type": "doc"
+   },
+   {
+    "title": "L'Étudiant – Fiche métier pneumologue",
+    "url": "https://www.letudiant.fr/metiers/secteur/medical/fiche-metier-pneumologue.html",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "nephrologie",
+  "resources": [
+   {
+    "title": "Wikipédia – Nephrology",
+    "url": "https://en.wikipedia.org/wiki/Nephrology",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Néphrologie",
+    "url": "https://fr.vikidia.org/wiki/N%C3%A9phrologie",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Néphrologie",
+    "url": "https://www.universalis.fr/dictionnaire/n%C3%A9phrologie/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "urologie",
+  "resources": [
+   {
+    "title": "Vikidia – Urologie",
+    "url": "https://fr.vikidia.org/wiki/Urologie",
+    "type": "doc"
+   },
+   {
+    "title": "Futura Sciences – Urologie",
+    "url": "https://www.futura-sciences.com/sante/definitions/medecine-urologie-13676/",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "gynecologie-obstetrique",
+  "resources": [
+   {
+    "title": "Vikidia – Gynécologie",
+    "url": "https://fr.vikidia.org/wiki/Gyn%C3%A9cologie",
+    "type": "doc"
+   },
+   {
+    "title": "Futura Sciences – Gynécologie",
+    "url": "https://www.futura-sciences.com/sante/definitions/medecine-gynecologie-14029/",
+    "type": "site"
+   },
+   {
+    "title": "CIDJ – Métier gynécologue-obstétricien",
+    "url": "https://www.cidj.com/s-orienter/metiers/gynecologue-obstetricien-gynecologue-obstetricienne",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "orthopedie",
+  "resources": [
+   {
+    "title": "Vikidia – Orthopédie",
+    "url": "https://fr.vikidia.org/wiki/Orthop%C3%A9die",
+    "type": "doc"
+   },
+   {
+    "title": "Wikipédia (franco.wiki) – Orthopédie",
+    "url": "https://franco.wiki/fr/Orthop%C3%A9die.html",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Orthopédie",
+    "url": "https://www.techno-science.net/fr/definitions/orthopedie",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "rhumatologie",
+  "resources": [
+   {
+    "title": "Wikipédia (franco.wiki) – Rhumatologie",
+    "url": "https://franco.wiki/fr/Rhumatologie.html",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Rhumatologie",
+    "url": "https://www.universalis.fr/encyclopedie/rhumatologie/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "ophtalmologie",
+  "resources": [
+   {
+    "title": "Vikidia – Ophtalmologie",
+    "url": "https://fr.vikidia.org/wiki/Ophtalmologie",
+    "type": "doc"
+   },
+   {
+    "title": "Futura Sciences – Ophtalmologie",
+    "url": "https://www.futura-sciences.com/sante/definitions/medecine-ophtalmologie-13538/",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "oto-rhino-laryngologie",
+  "resources": [
+   {
+    "title": "Vikidia – Oto-rhino-laryngologie",
+    "url": "https://fr.vikidia.org/wiki/Oto-rhino-laryngologie",
+    "type": "doc"
+   },
+   {
+    "title": "Wiktionnaire – oto-rhino-laryngologie",
+    "url": "https://fr.wiktionary.org/wiki/oto-rhino-laryngologie",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "hematologie",
+  "resources": [
+   {
+    "title": "Vikidia – Hématologie",
+    "url": "https://fr.vikidia.org/wiki/H%C3%A9matologie",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Hématologie",
+    "url": "https://www.universalis.fr/encyclopedie/hematologie/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "immunologie-medecine",
+  "resources": [
+   {
+    "title": "Vikidia – Immunologie",
+    "url": "https://fr.vikidia.org/wiki/Immunologie",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Immunologie",
+    "url": "https://www.techno-science.net/glossaire-definition/Immunologie.html",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Immunologie",
+    "url": "https://www.universalis.fr/dictionnaire/immunologie/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "infectiologie",
+  "resources": [
+   {
+    "title": "Vikidia – Infectiologie",
+    "url": "https://fr.vikidia.org/wiki/Infectiologie",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "anesthesiologie",
+  "resources": [
+   {
+    "title": "Wiktionnaire – anesthésie-réanimation",
+    "url": "https://fr.wiktionary.org/wiki/anesth%C3%A9sie-r%C3%A9animation",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "chirurgie-generale",
+  "resources": [
+   {
+    "title": "Vikidia – Chirurgie",
+    "url": "https://fr.vikidia.org/wiki/Chirurgie",
+    "type": "doc"
+   },
+   {
+    "title": "Quotidien du médecin – Chirurgie générale, la fin d'un mythe",
+    "url": "https://www.lequotidiendumedecin.fr/internes/etudes-medicales/chirurgie-generale-la-fin-dun-mythe",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "chirurgie-cardiaque",
+  "resources": [
+   {
+    "title": "Vikidia – Chirurgie cardiaque",
+    "url": "https://fr.vikidia.org/wiki/Chirurgie_cardiaque",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Chirurgie cardiaque",
+    "url": "https://www.universalis.fr/encyclopedie/coeur-chirurgie-cardiaque/",
+    "type": "doc"
+   },
+   {
+    "title": "Larousse – Chirurgie cardiovasculaire",
+    "url": "https://www.larousse.fr/encyclopedie/medical/chirurgie_cardiovasculaire/11901",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "neurochirurgie",
+  "resources": [
+   {
+    "title": "Vikidia – Neurochirurgie",
+    "url": "https://fr.vikidia.org/wiki/Neurochirurgie",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Neurochirurgie",
+    "url": "https://www.universalis.fr/dictionnaire/neurochirurgie/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "radiologie",
+  "resources": [
+   {
+    "title": "Futura Sciences – Radiologie",
+    "url": "https://www.futura-sciences.com/sante/definitions/medecine-radiologie-13843/",
+    "type": "site"
+   },
+   {
+    "title": "Universalis – Imagerie médicale",
+    "url": "https://www.universalis.fr/encyclopedie/imagerie-medicale/",
+    "type": "doc"
+   },
+   {
+    "title": "Larousse – Radiologie",
+    "url": "https://www.larousse.fr/encyclopedie/medical/radiologie/15730",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "medecine-nucleaire",
+  "resources": [
+   {
+    "title": "Universalis – Médecine nucléaire",
+    "url": "https://www.universalis.fr/encyclopedie/medecine-nucleaire/",
+    "type": "doc"
+   },
+   {
+    "title": "Larousse – Médecine nucléaire",
+    "url": "https://www.larousse.fr/encyclopedie/medical/m%C3%A9decine_nucl%C3%A9aire/14445",
+    "type": "doc"
+   },
+   {
+    "title": "CHUV – Médecine nucléaire pour patients",
+    "url": "https://www.chuv.ch/fr/medecine-nucleaire/nuc-home/patients-et-familles/medecine-nucleaire",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "anatomie-pathologique",
+  "resources": [
+   {
+    "title": "Techno-Science – Anatomo-pathologie",
+    "url": "https://www.techno-science.net/fr/definitions/anatomo-pathologie",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "medecine-generale",
+  "resources": [
+   {
+    "title": "Vikidia – Médecine générale",
+    "url": "https://fr.vikidia.org/wiki/M%C3%A9decine_g%C3%A9n%C3%A9rale",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Médecine générale",
+    "url": "https://www.techno-science.net/glossaire-definition/Medecine-generale.html",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "medecine-d-urgence",
+  "resources": [
+   {
+    "title": "Vikidia – Médecine d'urgence",
+    "url": "https://fr.vikidia.org/wiki/M%C3%A9decine_d%27urgence",
+    "type": "doc"
+   },
+   {
+    "title": "Elsevier Student Hub – Histoire de la médecine d'urgence",
+    "url": "https://studenthub.elsevier.com/fr/blog/lhistoire-de-la-medecine-durgence/",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "soins-intensifs",
+  "resources": []
+ },
+ {
+  "slug": "medecine-du-travail",
+  "resources": [
+   {
+    "title": "Vikidia – Médecine du travail",
+    "url": "https://fr.vikidia.org/wiki/M%C3%A9decine_du_travail",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Médecine du travail",
+    "url": "https://www.techno-science.net/fr/definitions/medecine-du-travail",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "sante-publique",
+  "resources": []
+ },
+ {
+  "slug": "epidemiologie",
+  "resources": [
+   {
+    "title": "Wikipédia (franco.wiki) – Épidémiologie",
+    "url": "https://franco.wiki/fr/%C3%89pid%C3%A9miologie.html",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Épidémiologie",
+    "url": "https://www.universalis.fr/encyclopedie/epidemiologie/",
+    "type": "doc"
+   },
+   {
+    "title": "Wiktionnaire – épidémiologie",
+    "url": "https://fr.wiktionary.org/wiki/%C3%A9pid%C3%A9miologie",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "pharmacologie",
+  "resources": [
+   {
+    "title": "Vikidia – Pharmacologie",
+    "url": "https://fr.vikidia.org/wiki/Pharmacologie",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "toxicologie",
+  "resources": []
+ },
+ {
+  "slug": "genetique-medicale",
+  "resources": [
+   {
+    "title": "Wikipédia – Medical genetics",
+    "url": "https://en.wikipedia.org/wiki/Medical_genetics",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "physiologie-humaine",
+  "resources": [
+   {
+    "title": "Nomad Éducation – Anatomie et physiologie du corps humain",
+    "url": "https://www.nomadeducation.fr/revisions/bac-pro-accompagnement-soins-et-services-a-la-pers-lb51e966/organisation-generale-du-corps-humain-cy42fb87",
+    "type": "cours"
+   },
+   {
+    "title": "Vikidia – Physiologiste",
+    "url": "https://fr.vikidia.org/wiki/Physiologiste",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "anatomie-humaine",
+  "resources": [
+   {
+    "title": "Vikidia – Anatomie",
+    "url": "https://fr.vikidia.org/wiki/Anatomie",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Anatomie humaine",
+    "url": "https://www.techno-science.net/glossaire-definition/Anatomie-humaine.html",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "histologie-medecine",
+  "resources": [
+   {
+    "title": "Universalis – Histologie",
+    "url": "https://www.universalis.fr/encyclopedie/histologie/",
+    "type": "doc"
+   },
+   {
+    "title": "Wiktionnaire – histologie",
+    "url": "https://fr.wiktionary.org/wiki/histologie",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "embryologie-medecine",
+  "resources": [
+   {
+    "title": "Vikidia – Embryologie",
+    "url": "https://fr.vikidia.org/wiki/Embryologie",
+    "type": "doc"
+   },
+   {
+    "title": "Futura Sciences – Embryon",
+    "url": "https://www.futura-sciences.com/sante/definitions/biologie-embryon-2257/",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "microbiologie-medicale",
+  "resources": [
+   {
+    "title": "Wikipédia simple – Medical microbiology",
+    "url": "https://simple.wikipedia.com/wiki/Medical_microbiology",
+    "type": "doc"
+   },
+   {
+    "title": "WikiDoc – Medical microbiology",
+    "url": "https://wikidoc.org/index.php/Medical_microbiology",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "virologie-medicale",
+  "resources": [
+   {
+    "title": "Universalis – Virologie",
+    "url": "https://www.universalis.fr/dictionnaire/virologie/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "parasitologie-medecine",
+  "resources": [
+   {
+    "title": "Futura Sciences – Parasitose",
+    "url": "https://www.futura-sciences.com/sante/definitions/medecine-parasitose-11192/",
+    "type": "site"
+   },
+   {
+    "title": "Universalis – Parasitologie",
+    "url": "https://www.universalis.fr/dictionnaire/parasitologie/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "biochimie-clinique",
+  "resources": [
+   {
+    "title": "Techno-Science – Biologie médicale",
+    "url": "https://www.techno-science.net/glossaire-definition/Biologie-medicale.html",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "medecine-preventive",
+  "resources": [
+   {
+    "title": "Vikidia – Prévention",
+    "url": "https://fr.vikidia.org/wiki/Pr%C3%A9vention",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Prophylaxie",
+    "url": "https://fr.vikidia.org/wiki/Prophylaxie",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "vaccinologie",
+  "resources": [
+   {
+    "title": "Universalis – Vaccination",
+    "url": "https://www.universalis.fr/index/vaccination/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "nutrition-et-dietetique",
+  "resources": [
+   {
+    "title": "Vikidia – Nutrition",
+    "url": "https://fr.vikidia.org/wiki/Nutrition",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Diététique",
+    "url": "https://www.techno-science.net/glossaire-definition/Dietetique.html",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "medecine-du-sport",
+  "resources": []
+ },
+ {
+  "slug": "medecine-tropicale",
+  "resources": [
+   {
+    "title": "Techno-Science – Médecine tropicale",
+    "url": "https://www.techno-science.net/fr/definitions/medecine-tropicale",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "sante-mentale",
+  "resources": [
+   {
+    "title": "AREQ – Trouble psychique",
+    "url": "https://areq.net/lang/fr/Trouble_psychique.html",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "addictologie",
+  "resources": [
+   {
+    "title": "Techno-Science – Addictologie",
+    "url": "https://www.techno-science.net/fr/definitions/addictologie",
+    "type": "doc"
+   },
+   {
+    "title": "AREQ – Addiction",
+    "url": "https://areq.net/lang/fr/Addiction.html",
+    "type": "doc"
+   },
+   {
+    "title": "MACSF – L'addictologie, une spécialité autonome",
+    "url": "https://www.macsf.fr/responsabilite-professionnelle/ethique-et-societe/pathologies-addictives",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "soins-palliatifs",
+  "resources": [
+   {
+    "title": "Larousse – Soins palliatifs",
+    "url": "https://www.larousse.fr/encyclopedie/medical/soins_palliatifs/16156",
+    "type": "doc"
+   },
+   {
+    "title": "AREQ – Soins palliatifs",
+    "url": "https://areq.net/lang/fr/Soins_palliatifs.html",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "medecine-legale",
+  "resources": [
+   {
+    "title": "Wikipédia (fr-academic) – Médecine légale",
+    "url": "https://fr-academic.com/dic.nsf/frwiki/641557",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "bioethique",
+  "resources": [
+   {
+    "title": "Universalis – Bioéthique ou éthique biomédicale",
+    "url": "https://www.universalis.fr/encyclopedie/bioethique-ethique-biomedicale/",
+    "type": "doc"
+   },
+   {
+    "title": "Larousse – Bioéthique",
+    "url": "https://www.larousse.fr/encyclopedie/philosophie/bio%C3%A9thique/191289",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "histoire-de-la-medecine",
+  "resources": [
+   {
+    "title": "Universalis – Histoire de la médecine",
+    "url": "https://www.universalis.fr/encyclopedie/histoire-de-la-medecine/",
+    "type": "doc"
+   },
+   {
+    "title": "Larousse – Histoire de la médecine",
+    "url": "https://www.larousse.fr/encyclopedie/divers/histoire_de_la_m%c3%a9decine/187065",
+    "type": "doc"
+   },
+   {
+    "title": "Allodocteurs – Histoire de la médecine",
+    "url": "https://www.allodocteurs.fr/histoire-de-la-medecine",
+    "type": "site"
+   }
+  ]
+ }
+]

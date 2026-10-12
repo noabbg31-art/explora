@@ -1,0 +1,847 @@
+[
+ {
+  "slug": "geographie-physique",
+  "resources": [
+   {
+    "title": "La langue française – Géographie physique",
+    "url": "https://www.lalanguefrancaise.com/dictionnaire/definition/geographie-physique",
+    "type": "doc"
+   },
+   {
+    "title": "Dunod – Géographie physique : milieux et environnement",
+    "url": "https://www.dunod.com/histoire-geographie-et-sciences-politiques/geographie-physique-milieux-et-environnement-dans-systeme",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "geomorphologie",
+  "resources": [
+   {
+    "title": "Dunod – Formes du relief terrestre, notions de géomorphologie",
+    "url": "https://dunod.com/histoire-geographie-et-sciences-politiques/formes-du-relief-terrestre-notions-geomorphologie",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "climatologie",
+  "resources": [
+   {
+    "title": "Wiki – Climatologie",
+    "url": "https://franco.wiki/fr/Climatologie.html",
+    "type": "doc"
+   },
+   {
+    "title": "Larousse – Climatologie",
+    "url": "https://www.larousse.fr/encyclopedie/divers/climatologie/34511",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Climatologie",
+    "url": "https://www.techno-science.net/fr/definitions/climatologie",
+    "type": "doc"
+   },
+   {
+    "title": "Institut royal météorologique – Dico météo : climatologie",
+    "url": "https://www.meteo.be/fr/infos/dico-meteo/climatologie",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "hydrologie",
+  "resources": [
+   {
+    "title": "Universalis – Hydrographie",
+    "url": "https://www.universalis.fr/encyclopedie/hydrographie/",
+    "type": "doc"
+   },
+   {
+    "title": "Dunod – Hydrologie continentale",
+    "url": "https://www.dunod.com/histoire-geographie-et-sciences-politiques/hydrologie-continentale",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "oceanographie",
+  "resources": [
+   {
+    "title": "Vikidia – Océanographie",
+    "url": "https://fr.vikidia.org/wiki/Oc%C3%A9anographie",
+    "type": "doc"
+   },
+   {
+    "title": "Larousse – Océanographie",
+    "url": "https://www.larousse.fr/encyclopedie/divers/oc%C3%A9anographie/74355",
+    "type": "doc"
+   },
+   {
+    "title": "Futura – Physique du milieu marin",
+    "url": "https://www.futura-sciences.com/sciences/dossiers/physique-milieu-marin-proprietes-physiques-416/",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "glaciologie",
+  "resources": [
+   {
+    "title": "Larousse – Glacier",
+    "url": "https://www.larousse.fr/encyclopedie/divers/glacier/55500",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Calottes polaires",
+    "url": "https://fr.vikidia.org/wiki/Calottes_polaires",
+    "type": "doc"
+   },
+   {
+    "title": "Savoir polaire – La glace, la terre et l'eau",
+    "url": "https://www.canada.ca/fr/savoir-polaire/publications/aqhaliat/volume-3/la-glace-la-terre-et-leau.html",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "pedologie",
+  "resources": [
+   {
+    "title": "Universalis – Pédologie",
+    "url": "https://www.universalis.fr/encyclopedie/pedologie/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "biogeographie-geographie",
+  "resources": [
+   {
+    "title": "Vikidia – Biogéographie",
+    "url": "https://fr.vikidia.org/wiki/Biog%C3%A9ographie",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Biogéographie",
+    "url": "https://www.universalis.fr/encyclopedie/biogeographie/",
+    "type": "doc"
+   },
+   {
+    "title": "LibreTexts – Biogéographie (OpenStax)",
+    "url": "https://query.libretexts.org/Francais/Livre_%3A_Biologie_g%C3%A9n%C3%A9rale_(OpenStax)/8%3A_%C3%89cologie/44%3A_%C3%89cologie_et_biosph%C3%A8re/44.2%3A_Biog%C3%A9ographie",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-humaine",
+  "resources": [
+   {
+    "title": "Vikidia – Géographie",
+    "url": "https://fr.vikidia.org/wiki/Geographie",
+    "type": "doc"
+   },
+   {
+    "title": "Larousse – Géographie",
+    "url": "https://www.larousse.fr/dictionnaires/college/g%C3%A9ographie/18029",
+    "type": "doc"
+   },
+   {
+    "title": "Dunod – Les concepts de la géographie humaine",
+    "url": "https://dunod.com/histoire-geographie-et-sciences-politiques/concepts-geographie-humaine",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-urbaine",
+  "resources": [
+   {
+    "title": "Techno-Science – Géographie urbaine",
+    "url": "https://www.techno-science.net/fr/definitions/geographie-urbaine",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-de-la-population",
+  "resources": [
+   {
+    "title": "Vikidia – Densité de population",
+    "url": "https://fr.vikidia.org/wiki/Densit%C3%A9_de_population",
+    "type": "doc"
+   },
+   {
+    "title": "Pass Education – La répartition de la population mondiale (cours)",
+    "url": "https://www.pass-education.fr/la-repartition-de-la-population-mondiale-6eme-cours/",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-economique",
+  "resources": [
+   {
+    "title": "Universalis – Géographie économique",
+    "url": "https://www.universalis.fr/encyclopedie/geographie-economique/",
+    "type": "doc"
+   },
+   {
+    "title": "Wikimedia Commons – Economic geography",
+    "url": "https://commons.wikimedia.org/wiki/Category:Economic_geography",
+    "type": "outil"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-culturelle",
+  "resources": [
+   {
+    "title": "Universalis – Géographie culturelle",
+    "url": "https://www.universalis.fr/encyclopedie/geographie/7-geographie-culturelle/",
+    "type": "doc"
+   },
+   {
+    "title": "Wikimedia Commons – Cultural geography",
+    "url": "https://commons.wikimedia.org/wiki/Category:Cultural_geography",
+    "type": "outil"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-des-transports",
+  "resources": [
+   {
+    "title": "Dunod – Géographie des transports",
+    "url": "https://www.dunod.com/histoire-geographie-et-sciences-politiques/geographie-transports",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "systemes-d-information-geographique",
+  "resources": [
+   {
+    "title": "QGIS – Documentation française",
+    "url": "https://docs.qgis.org/latest/fr/docs/about/foreword.html",
+    "type": "doc"
+   },
+   {
+    "title": "Wiki QCBS – SIG libres",
+    "url": "https://wiki.qcbs.ca/siglibres?do=edit",
+    "type": "site"
+   },
+   {
+    "title": "Geoteca – Système d'information géographique",
+    "url": "https://geoteca.u-paris.fr/systeme-dinformation-geographique-sig/",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "teledetection",
+  "resources": [
+   {
+    "title": "ESA Eduspace – Observation de la Terre",
+    "url": "https://www.esa.int/SPECIALS/Eduspace_FR/SEMP4O1P0WF_0.html",
+    "type": "cours"
+   },
+   {
+    "title": "Universalis – Satellites d'observation de la Terre",
+    "url": "https://www.universalis.fr/index/satellites-d-observation-de-la-terre/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-de-l-afrique",
+  "resources": [
+   {
+    "title": "Larousse – Afrique : géographie physique",
+    "url": "https://www.larousse.fr/encyclopedie/divers/Afrique_géographie_physique/187585",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-de-l-asie",
+  "resources": [
+   {
+    "title": "Vikidia – Asie",
+    "url": "https://fr.vikidia.org/wiki/Asie",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Relief de l'Asie",
+    "url": "https://fr.vikidia.org/wiki/Relief_de_l'Asie",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Géographie de l'Asie",
+    "url": "https://www.techno-science.net/fr/definitions/geographie-de-l-asie",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-de-l-europe",
+  "resources": [
+   {
+    "title": "Vikidia – Géographie de l'Europe",
+    "url": "https://fr.vikidia.org/wiki/G%C3%A9ographie_de_l%27Europe",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Climats de l'Europe",
+    "url": "https://fr.vikidia.org/wiki/Climats_de_l%27Europe",
+    "type": "doc"
+   },
+   {
+    "title": "Pass Education – Le relief en Europe",
+    "url": "https://www.pass-education.fr/le-relief-en-europe-l-europe-et-l-union-europeenne-geographie-cm1/",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-de-l-amerique-du-nord",
+  "resources": [
+   {
+    "title": "Vikidia – Amérique du Nord",
+    "url": "https://fr.vikidia.org/wiki/Am%C3%A9rique_du_Nord",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Géographie de l'Amérique du Nord",
+    "url": "https://www.techno-science.net/fr/definitions/geographie-de-l-amerique-du-nord",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Amérique, structure et milieu",
+    "url": "https://www.universalis.fr/encyclopedie/amerique-structure-et-milieu-geographie/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-de-l-amerique-du-sud",
+  "resources": [
+   {
+    "title": "Vikidia – Amérique du Sud",
+    "url": "https://fr.vikidia.org/wiki/Am%C3%A9rique_du_sud",
+    "type": "doc"
+   },
+   {
+    "title": "Wiki – Géographie de l'Amérique du Sud",
+    "url": "https://franco.wiki/fr/G%C3%A9ographie_de_l'Am%C3%A9rique_du_Sud.html",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Géographie de l'Amérique du Sud",
+    "url": "https://www.techno-science.net/fr/definitions/geographie-de-l-amerique-du-sud",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-de-l-oceanie",
+  "resources": [
+   {
+    "title": "Wiki – Géographie de l'Océanie",
+    "url": "https://franco.wiki/fr/G%C3%A9ographie_de_l'Oc%C3%A9anie.html",
+    "type": "doc"
+   },
+   {
+    "title": "Larousse – Océanie",
+    "url": "https://www.larousse.fr/encyclopedie/autre-region/Oc%C3%A9anie/126906",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Archipels",
+    "url": "https://fr.vikidia.org/wiki/Archipels",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-de-l-antarctique",
+  "resources": [
+   {
+    "title": "Vikidia – Continent antarctique",
+    "url": "https://fr.vikidia.org/wiki/Continent_antarctique",
+    "type": "doc"
+   },
+   {
+    "title": "Wikimedia Commons – Atlas of Antarctica",
+    "url": "https://commons.wikimedia.org/wiki/Atlas_of_Antarctica",
+    "type": "outil"
+   }
+  ]
+ },
+ {
+  "slug": "montagnes-et-massifs",
+  "resources": [
+   {
+    "title": "Vikidia – Massif montagneux",
+    "url": "https://fr.vikidia.org/wiki/Massif_montagneux",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Chaîne de montagnes",
+    "url": "https://fr.vikidia.org/wiki/Cha%C3%AEne_de_montagnes",
+    "type": "doc"
+   },
+   {
+    "title": "L'Étudiant – La formation des chaînes montagneuses",
+    "url": "https://www.letudiant.fr/lycee/methodologie-lycee/article/la-formation-des-chaines-montagneuses.html",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "deserts",
+  "resources": [
+   {
+    "title": "Vikidia – Désert",
+    "url": "https://fr.vikidia.org/wiki/D%C3%A9sert",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Climat désertique",
+    "url": "https://fr.vikidia.org/wiki/Climat_d%C3%A9sertique",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Déserts",
+    "url": "https://www.universalis.fr/encyclopedie/deserts/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "forets-tropicales",
+  "resources": [
+   {
+    "title": "Vikidia – Forêt tropicale humide",
+    "url": "https://fr.vikidia.org/wiki/For%C3%AAt_tropicale_humide",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Forêt amazonienne",
+    "url": "https://fr.vikidia.org/wiki/For%C3%AAt_amazonienne",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Déforestation",
+    "url": "https://fr.vikidia.org/wiki/D%C3%A9forestation",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "fleuves-et-rivieres",
+  "resources": [
+   {
+    "title": "Vikidia – Fleuve",
+    "url": "https://fr.vikidia.org/wiki/Fleuve",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Fleuves et rivières",
+    "url": "https://www.universalis.fr/classification/geographie/geographie-physique/hydrographie/hydrographie-continentale/fleuves-et-rivieres/5/",
+    "type": "doc"
+   },
+   {
+    "title": "Atlas sociologique mondial – Bassins hydrographiques par superficie",
+    "url": "https://atlasocio.com/classements/geographie/hydrographie/classement-bassins-hydrographiques-par-superficie-monde.php",
+    "type": "outil"
+   }
+  ]
+ },
+ {
+  "slug": "lacs",
+  "resources": [
+   {
+    "title": "Universalis – Lacs",
+    "url": "https://www.universalis.fr/index/lacs/",
+    "type": "doc"
+   },
+   {
+    "title": "Éditions Quae – Les grands lacs",
+    "url": "https://www.quae.com/9782759235209",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "oceans-et-mers",
+  "resources": [
+   {
+    "title": "Vikidia – Océan",
+    "url": "https://fr.vikidia.org/wiki/Oc%C3%A9an",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Courant océanique",
+    "url": "https://fr.vikidia.org/wiki/Courant_oc%C3%A9anique",
+    "type": "doc"
+   },
+   {
+    "title": "Jancovici – Les courants marins vont-ils changer ?",
+    "url": "https://jancovici.com/changement-climatique/risques/les-courants-marins-vont-ils-changer/",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "iles-et-archipels",
+  "resources": [
+   {
+    "title": "Vikidia – Archipels",
+    "url": "https://fr.vikidia.org/wiki/Archipels",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Archipel",
+    "url": "https://fr.vikidia.org/wiki/Archipel",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "volcans",
+  "resources": [
+   {
+    "title": "Vikidia – Volcan",
+    "url": "https://fr.vikidia.org/wiki/Volcan",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Volcanisme",
+    "url": "https://fr.vikidia.org/wiki/Volcanisme",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Tectonique des plaques",
+    "url": "https://fr.vikidia.org/wiki/Tectonique_des_plaques",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "climats-du-monde",
+  "resources": [
+   {
+    "title": "Vikidia – Climats du monde",
+    "url": "https://fr.vikidia.org/wiki/Climats_du_monde",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Classification des climats",
+    "url": "https://www.techno-science.net/glossaire-definition/Classification-des-climats.html",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "biomes-terrestres",
+  "resources": [
+   {
+    "title": "Vikidia – Biome",
+    "url": "https://fr.vikidia.org/wiki/Biome",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Biome",
+    "url": "https://www.techno-science.net/fr/definitions/biome",
+    "type": "doc"
+   },
+   {
+    "title": "LibreTexts – Biomes",
+    "url": "https://query.libretexts.org/Francais/Sciences_de_l'environnement_(Ha_et_Schleiger)/02%3A_%C3%89cologie/2.05%3A_Biomes",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "ecosystemes-terrestres",
+  "resources": [
+   {
+    "title": "Vikidia – Écosystème",
+    "url": "https://fr.vikidia.org/wiki/%C3%89cosyst%C3%A8me",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Milieu naturel",
+    "url": "https://fr.vikidia.org/wiki/Milieu_naturel",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "risques-naturels",
+  "resources": [
+   {
+    "title": "Vikidia – Risque majeur",
+    "url": "https://fr.vikidia.org/wiki/Risque_majeur",
+    "type": "doc"
+   },
+   {
+    "title": "Ministère de la Transition écologique – Prévention des risques naturels",
+    "url": "https://www.ecologie.gouv.fr/politiques-publiques/prevention-risques-naturels",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "changement-climatique-et-territoires",
+  "resources": [
+   {
+    "title": "Préfecture d'Occitanie – Adapter nos territoires au changement climatique",
+    "url": "https://www.prefectures-regions.gouv.fr/occitanie/Actualites/Comment-agir-pour-adapter-nos-territoires-au-changement-climatique-des-aujourd-hui",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "urbanisation",
+  "resources": [
+   {
+    "title": "Vikidia – Urbanisation",
+    "url": "https://fr.vikidia.org/wiki/Urbanisation",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Croissance urbaine",
+    "url": "https://fr.vikidia.org/wiki/Croissance_urbaine",
+    "type": "doc"
+   },
+   {
+    "title": "UNFPA – Urbanisation",
+    "url": "https://www.unfpa.org/fr/urbanisation",
+    "type": "site"
+   },
+   {
+    "title": "Larousse – Urbanisation",
+    "url": "https://www.larousse.fr/encyclopedie/divers/urbanisation/100334",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "demographie",
+  "resources": [
+   {
+    "title": "Vikidia – Transition démographique",
+    "url": "https://fr.vikidia.org/wiki/Transition_d%C3%A9mographique",
+    "type": "doc"
+   },
+   {
+    "title": "Universalis – Démographie : causes et conséquences",
+    "url": "https://www.universalis.fr/encyclopedie/demographie/2-causes-et-consequences-des-facteurs-demographiques/",
+    "type": "doc"
+   },
+   {
+    "title": "Nomad Education – La démographie mondiale et ses enjeux",
+    "url": "https://www.nomadeducation.fr/revisions/5eme-tout-le-programme-lbb05164/la-croissance-demographique-et-ses-effets-cy864380",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "migrations-humaines",
+  "resources": [
+   {
+    "title": "Larousse – Migrations humaines",
+    "url": "https://www.larousse.fr/encyclopedie/divers/migrations_humaines/186949",
+    "type": "doc"
+   },
+   {
+    "title": "Nomad Education – Les migrations",
+    "url": "https://www.nomadeducation.fr/revisions/booste-ta-culture-generale-des-centaines-de-fiches-lb9d5f81/les-migrations-cy2bbb14",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-des-ressources-naturelles",
+  "resources": [
+   {
+    "title": "Vikidia – Ressource naturelle",
+    "url": "https://fr.vikidia.org/wiki/Ressource_naturelle",
+    "type": "doc"
+   },
+   {
+    "title": "Digischool – Des ressources limitées à l'échelle mondiale",
+    "url": "https://www.digischool.fr/cours/des-ressources-limitees-a-l-echelle-mondiale-rrfq",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "frontieres-et-territoires",
+  "resources": [
+   {
+    "title": "Vikidia – Frontière",
+    "url": "https://fr.vikidia.org/wiki/Fronti%C3%A8re",
+    "type": "doc"
+   },
+   {
+    "title": "Atlas sociologique mondial – Frontières terrestres par longueur",
+    "url": "https://atlasocio.com/classements/geographie/frontieres/classement-frontieres-terrestres-par-longueur-monde.php",
+    "type": "outil"
+   }
+  ]
+ },
+ {
+  "slug": "toponymie",
+  "resources": [
+   {
+    "title": "Geneawiki – Toponymie",
+    "url": "https://fr.geneawiki.com/wiki/Toponymie",
+    "type": "doc"
+   },
+   {
+    "title": "Lexilogos – Toponymie",
+    "url": "https://www.lexilogos.com/toponymie.htm",
+    "type": "site"
+   },
+   {
+    "title": "OQLF – Fiche Toponymie",
+    "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8408267/toponymie",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "exploration-geographique",
+  "resources": [
+   {
+    "title": "Vikidia – Grandes découvertes maritimes",
+    "url": "https://fr.vikidia.org/wiki/Grandes_d%C3%A9couvertes_maritimes",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Explorateur",
+    "url": "https://fr.vikidia.org/wiki/Explorateur",
+    "type": "doc"
+   },
+   {
+    "title": "Hérodote – Les grandes explorations de l'Antiquité",
+    "url": "https://www.herodote.net/Vincent_raconte_les_grandes_explorations_de_l_Antiquite-synthese-3083-11.php",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-maritime",
+  "resources": [
+   {
+    "title": "SchoolMouv – Mers et océans : un monde maritimisé",
+    "url": "https://www.schoolmouv.fr/cours/mers-et-oceans-un-monde-maritimise/",
+    "type": "cours"
+   },
+   {
+    "title": "Groupe Réussite – Mondialisation et espaces maritimes",
+    "url": "https://groupe-reussite.fr/ressources/blog/geographie-terminale-mondialisation-espaces-maritimes/",
+    "type": "site"
+   }
+  ]
+ },
+ {
+  "slug": "amenagement-du-territoire",
+  "resources": [
+   {
+    "title": "Universalis – Aménagement du territoire",
+    "url": "https://www.universalis.fr/encyclopedie/amenagement/",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-du-tourisme",
+  "resources": [
+   {
+    "title": "Vikidia – Touriste",
+    "url": "https://fr.vikidia.org/wiki/Touriste",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Site touristique",
+    "url": "https://fr.vikidia.org/wiki/Site_touristique",
+    "type": "doc"
+   },
+   {
+    "title": "Alloprof – Les régions touristiques",
+    "url": "https://cms.alloprof.qc.ca/en/students/vl/geography/tourist-regions-g1080",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-agricole",
+  "resources": [
+   {
+    "title": "Vikidia – Agriculture",
+    "url": "https://fr.vikidia.org/wiki/Agriculture_(activit%C3%A9)",
+    "type": "doc"
+   },
+   {
+    "title": "Au futur – Les systèmes agraires",
+    "url": "https://aufutur.fr/revisions/hggsp/nourrir-monde-systemes-agraires/",
+    "type": "cours"
+   },
+   {
+    "title": "Nomad Education – Géographie de l'agriculture",
+    "url": "https://www.nomadeducation.fr/revisions/licence-geographie-et-amenagement-2e-annee-lb032336/geographie-de-l-agriculture-cy196433",
+    "type": "cours"
+   }
+  ]
+ },
+ {
+  "slug": "zones-polaires",
+  "resources": [
+   {
+    "title": "Vikidia – Régions polaires",
+    "url": "https://fr.vikidia.org/wiki/R%C3%A9gions_polaires",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Milieu polaire",
+    "url": "https://fr.vikidia.org/wiki/Milieu_polaire",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "cycle-de-l-eau",
+  "resources": [
+   {
+    "title": "Vikidia – Cycle de l'eau",
+    "url": "https://fr.vikidia.org/wiki/Cycle_de_l%27eau",
+    "type": "doc"
+   }
+  ]
+ },
+ {
+  "slug": "geographie-des-paysages",
+  "resources": [
+   {
+    "title": "Vikidia – Paysage",
+    "url": "https://fr.vikidia.org/wiki/Paysage",
+    "type": "doc"
+   },
+   {
+    "title": "Vikidia – Les paysages",
+    "url": "https://fr.vikidia.org/wiki/Les_paysages",
+    "type": "doc"
+   },
+   {
+    "title": "Techno-Science – Paysage",
+    "url": "https://www.techno-science.net/fr/definitions/paysage",
+    "type": "doc"
+   }
+  ]
+ }
+]

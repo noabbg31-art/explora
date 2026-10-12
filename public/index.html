@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Explora — apprends ce que tu veux</title>
+  <!-- Balises SEO / partage social -->
+  <meta name="description" content="Explora : cherche un sujet, trouve les meilleures ressources et les sujets liés." />
+  <meta property="og:title" content="Explora" />
+  <meta property="og:description" content="Cherche un sujet, trouve les meilleures ressources." />
+  <meta name="theme-color" content="#f6f4ef" />
+
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%23e2572b'/%3E%3Ctext x='50' y='68' font-size='58' font-family='sans-serif' font-weight='800' fill='white' text-anchor='middle'%3EE%3C/text%3E%3C/svg%3E" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div class="bg-glow" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a href="/" class="logo" data-link>
+      <span class="logo-mark">E</span>explora<span class="dot">.</span>
+    </a>
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Changer de thème" title="Changer de thème">
+      <svg class="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v3M12 18.5v3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M2.5 12h3M18.5 12h3M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1"/></svg>
+      <svg class="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a7 7 0 0 0 10.5 10.5Z"/></svg>
+    </button>
+  </header>
+
+  <!-- Le contenu de <main> est remplacé par app.js selon l'URL -->
+  <main id="app" class="view-enter"></main>
+
+  <footer class="footer">
+    <span>Explora — un petit projet pour apprendre à apprendre.</span>
+  </footer>
+
+  <!-- Gabarit de la page d'accueil (cloné par app.js) -->
+  <template id="tpl-home">
+    <section class="hero">
+      <span class="eyebrow">Choisis ton prochain sujet</span>
+      <h1>Je veux apprendre<span class="accent-dot">…</span></h1>
+      <p class="subtitle">Cherche une techno (ou autre chose), trouve les meilleures ressources et explore les sujets liés.</p>
+
+      <div class="search">
+        <svg class="search-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input id="search-input" type="text" placeholder="JavaScript, cybersécurité, philosophie…"
+               autocomplete="off" aria-label="Rechercher un sujet" />
+        <ul id="suggestions" class="suggestions" role="listbox"></ul>
+      </div>
+    </section>
+
+    <section class="categories-section">
+      <div class="section-head">
+        <h2>Explorer par catégorie</h2>
+        <span class="muted-count"><span id="topics-count">—</span> sujets au total</span>
+      </div>
+      <div id="category-grid" class="category-grid"></div>
+    </section>
+  </template>
+
+  <!-- Gabarit de la page d'une catégorie -->
+  <template id="tpl-category">
+    <article class="category-page">
+      <a href="/" class="back" data-link>
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        Toutes les catégories
+      </a>
+      <span class="category-icon-badge" id="category-icon"></span>
+      <h1 class="category-name"></h1>
+      <p class="category-description"></p>
+
+      <div class="category-filter">
+        <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input id="category-filter" type="text" placeholder="Filtrer les sujets de cette catégorie…" autocomplete="off" />
+        <span id="category-count" class="category-count"></span>
+      </div>
+
+      <div id="category-topics" class="topic-grid"></div>
+    </article>
+  </template>
+
+  <!-- Gabarit de la page d'un sujet -->
+  <template id="tpl-topic">
+    <article class="topic">
+      <a href="/" class="back" data-link>
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        Retour
+      </a>
+      <a href="/" class="category-badge" id="topic-category" data-link></a>
+      <h1 class="topic-name"></h1>
+      <p class="topic-summary"></p>
+
+      <h2>Ressources</h2>
+      <ul class="resources"></ul>
+
+      <h2>Sujets liés</h2>
+      <div class="related chips"></div>
+    </article>
+  </template>
+
+  <!-- Squelette de chargement -->
+  <template id="tpl-loading">
+    <div class="skeleton">
+      <div class="skeleton-line w-40"></div>
+      <div class="skeleton-line w-70"></div>
+      <div class="skeleton-row">
+        <div class="skeleton-pill"></div>
+        <div class="skeleton-pill"></div>
+        <div class="skeleton-pill"></div>
+      </div>
+    </div>
+  </template>
+
+  <script src="/app.js"></script>
+</body>
+</html>
